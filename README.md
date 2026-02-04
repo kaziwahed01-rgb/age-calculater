@@ -28,6 +28,4 @@ A simple Android application to calculate age based on the entered date of birth
 *   [Kotlin](https://kotlinlang.org/)
 *   [Jetpack Compose](https://developer.android.com/jetpack/compose)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
